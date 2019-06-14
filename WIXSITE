@@ -1,0 +1,151 @@
+<div id="SITE_HEADERinlineContent-gridWrapper" data-mesh-internal="true"><div id="SITE_HEADERinlineContent-gridContainer" data-mesh-internal="true"><div style="top:;bottom:;left:;right:;position:" class="style-jp4s7o1h" id="comp-jnuzw9y9"><div id="comp-jnuzw9y9bg" class="style-jp4s7o1hbg"></div><div class="style-jp4s7o1hinlineContent" id="comp-jnuzw9y9inlineContent"><style id="comp-jnuzw9y9-mesh-styles">
+    
+#comp-jnuzw9y9inlineContent {
+    height: auto;
+    width: 980px;
+    position: relative;
+}
+
+#comp-jnuzw9y9inlineContent-gridWrapper {
+    pointer-events: none;
+}
+
+#comp-jnuzw9y9inlineContent-gridContainer {
+    position: static;
+    display: grid;
+    height: auto;
+    width: 100%;
+    min-height: auto;
+    grid-template-rows: min-content min-content 1fr;
+    grid-template-columns: 100%;
+}
+
+#LnkBr0-163a {
+    position: relative;
+    margin: 21px 0px 67px 0;
+    left: 752px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#iar8fzs2 {
+    position: relative;
+    margin: 21px 0px 67px 0;
+    left: 927px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#iamrl0nl {
+    position: relative;
+    margin: 21px 0px -27px 0;
+    left: 397px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#WRchTxt5 {
+    position: relative;
+    margin: 0px 0px -1px 0;
+    left: 238px;
+    grid-area: 2 / 1 / 3 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#WRchTxt7 {
+    position: relative;
+    margin: 0px 0px 52px 0;
+    left: 259px;
+    grid-area: 3 / 1 / 4 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#comp-jnuzw9y9centeredContent {
+    position: relative;
+}
+
+#comp-jnuzw9y9inlineContent-gridContainer > * {
+    pointer-events: initial;
+}
+
+#comp-jnuzw9y9inlineContent-gridContainer > [id$="-rotated-wrapper"] {
+    pointer-events: none;
+}
+
+#comp-jnuzw9y9inlineContent-gridContainer > [id$="-rotated-wrapper"] > * {
+    pointer-events: initial;
+}</style><div id="comp-jnuzw9y9inlineContent-gridWrapper" data-mesh-internal="true"><div id="comp-jnuzw9y9inlineContent-gridContainer" data-mesh-internal="true"><div data-hide-prejs="true" style="width:170px;height:30px;top:;bottom:;left:;right:;position:" class="lb1" id="LnkBr0-163a"><ul aria-label="Social bar" id="LnkBr0-163aitemsContainer" class="lb1itemsContainer"><li style="width:30px;height:30px;margin-bottom:0;margin-right:5px;display:inline-block" class="lb1imageItem" id="LnkBr0-163a0image"><a href="https://www.patreon.com/FrankieFrancesco" target="_blank" data-content="https://www.patreon.com/FrankieFrancesco" data-type="external" rel="nofollow" id="LnkBr0-163a0imagelink" class="lb1imageItemlink"><div data-image-info="{&quot;imageData&quot;:{&quot;link&quot;:{&quot;type&quot;:&quot;ExternalLink&quot;,&quot;id&quot;:&quot;dataItem-ikp9ktkl&quot;,&quot;metaData&quot;:{&quot;isPreset&quot;:false,&quot;schemaVersion&quot;:&quot;1.0&quot;,&quot;isHidden&quot;:false},&quot;url&quot;:&quot;https://www.patreon.com/FrankieFrancesco&quot;,&quot;target&quot;:&quot;_blank&quot;},&quot;type&quot;:&quot;Image&quot;,&quot;id&quot;:&quot;dataItem-ikp9ktkk&quot;,&quot;metaData&quot;:{&quot;isPreset&quot;:false,&quot;schemaVersion&quot;:&quot;1.0&quot;,&quot;isHidden&quot;:false},&quot;title&quot;:&quot;patreon_logo_black&quot;,&quot;uri&quot;:&quot;bcff63_65b420d74efc4d478dc63c42b9826447.png&quot;,&quot;width&quot;:300,&quot;height&quot;:300,&quot;alt&quot;:&quot;patreon_logo_black&quot;},&quot;displayMode&quot;:&quot;fill&quot;}" style="width: 30px; height: 30px; position: absolute;" data-has-bg-scroll-effect="" data-style="position:absolute" class="lb1imageItemimage" id="LnkBr0-163a0imageimage"><img id="LnkBr0-163a0imageimageimage" alt="patreon_logo_black" data-type="image" itemprop="image" src="https://static.wixstatic.com/media/bcff63_65b420d74efc4d478dc63c42b9826447.png/v1/fill/w_60,h_60,al_c,q_80,usm_0.66_1.00_0.01/bcff63_65b420d74efc4d478dc63c42b9826447.webp" style="width: 30px; height: 30px; object-fit: cover;"></div></a></li><li style="width:30px;height:30px;margin-bottom:0;margin-right:5px;display:inline-block" class="lb1imageItem" id="LnkBr0-163a1image"><a href="http://frankiefrancesco.deviantart.com/" target="_blank" data-content="http://frankiefrancesco.deviantart.com/" data-type="external" rel="nofollow" id="LnkBr0-163a1imagelink" class="lb1imageItemlink"><div data-image-info="{&quot;imageData&quot;:{&quot;link&quot;:{&quot;type&quot;:&quot;ExternalLink&quot;,&quot;id&quot;:&quot;dataItem-ikpa901m&quot;,&quot;metaData&quot;:{&quot;isPreset&quot;:false,&quot;schemaVersion&quot;:&quot;1.0&quot;,&quot;isHidden&quot;:false},&quot;url&quot;:&quot;http://frankiefrancesco.deviantart.com/&quot;,&quot;target&quot;:&quot;_blank&quot;},&quot;type&quot;:&quot;Image&quot;,&quot;id&quot;:&quot;dataItem-ikpa901l&quot;,&quot;metaData&quot;:{&quot;isPreset&quot;:false,&quot;schemaVersion&quot;:&quot;1.0&quot;,&quot;isHidden&quot;:false},&quot;title&quot;:&quot;deviantart_icon_black_by_ihdneph-d8tanru&quot;,&quot;uri&quot;:&quot;bcff63_2be4fdcbef2d497993c403f310041db9.png&quot;,&quot;width&quot;:150,&quot;height&quot;:143,&quot;alt&quot;:&quot;deviantart_icon_black_by_ihdneph-d8tanru&quot;},&quot;displayMode&quot;:&quot;fill&quot;}" style="width: 30px; height: 30px; position: absolute;" data-has-bg-scroll-effect="" data-style="position:absolute" class="lb1imageItemimage" id="LnkBr0-163a1imageimage"><img id="LnkBr0-163a1imageimageimage" alt="deviantart_icon_black_by_ihdneph-d8tanru" data-type="image" itemprop="image" src="https://static.wixstatic.com/media/bcff63_2be4fdcbef2d497993c403f310041db9.png/v1/fill/w_60,h_60,al_c,q_80,usm_0.66_1.00_0.01/bcff63_2be4fdcbef2d497993c403f310041db9.webp" style="width: 30px; height: 30px; object-fit: cover;"></div></a></li><li style="width:30px;height:30px;margin-bottom:0;margin-right:5px;display:inline-block" class="lb1imageItem" id="LnkBr0-163a2image"><a href="https://twitter.com/ForMugs" target="_blank" data-content="https://twitter.com/ForMugs" data-type="external" rel="nofollow" id="LnkBr0-163a2imagelink" class="lb1imageItemlink"><div data-image-info="{&quot;imageData&quot;:{&quot;link&quot;:{&quot;type&quot;:&quot;ExternalLink&quot;,&quot;id&quot;:&quot;iamg2mzd_2312&quot;,&quot;metaData&quot;:{&quot;isPreset&quot;:false,&quot;schemaVersion&quot;:&quot;1.0&quot;,&quot;isHidden&quot;:false},&quot;url&quot;:&quot;https://twitter.com/ForMugs&quot;,&quot;target&quot;:&quot;_blank&quot;},&quot;type&quot;:&quot;Image&quot;,&quot;id&quot;:&quot;i1251e&quot;,&quot;metaData&quot;:{&quot;isPreset&quot;:false,&quot;schemaVersion&quot;:&quot;2.0&quot;,&quot;isHidden&quot;:false},&quot;title&quot;:&quot;Twitter Basic Black &quot;,&quot;uri&quot;:&quot;d090c1c8997ee76d531500a6002f81a2.png&quot;,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:205,&quot;height&quot;:205,&quot;alt&quot;:&quot;Twitter Basic Black &quot;},&quot;displayMode&quot;:&quot;fill&quot;}" style="width: 30px; height: 30px; position: absolute;" data-has-bg-scroll-effect="" data-style="position:absolute" class="lb1imageItemimage" id="LnkBr0-163a2imageimage"><img id="LnkBr0-163a2imageimageimage" alt="Twitter Basic Black " data-type="image" itemprop="image" src="https://static.wixstatic.com/media/d090c1c8997ee76d531500a6002f81a2.png/v1/fill/w_60,h_60,al_c,q_80,usm_0.66_1.00_0.01/d090c1c8997ee76d531500a6002f81a2.webp" style="width: 30px; height: 30px; object-fit: cover;"></div></a></li><li style="width:30px;height:30px;margin-bottom:0;margin-right:5px;display:inline-block" class="lb1imageItem" id="LnkBr0-163a3image"><a href="https://www.facebook.com/ForMugs" target="_blank" data-content="https://www.facebook.com/ForMugs" data-type="external" rel="nofollow" id="LnkBr0-163a3imagelink" class="lb1imageItemlink"><div data-image-info="{&quot;imageData&quot;:{&quot;link&quot;:{&quot;type&quot;:&quot;ExternalLink&quot;,&quot;id&quot;:&quot;dataItem-ikn8h3s71&quot;,&quot;metaData&quot;:{&quot;isPreset&quot;:false,&quot;schemaVersion&quot;:&quot;1.0&quot;,&quot;isHidden&quot;:false},&quot;url&quot;:&quot;https://www.facebook.com/ForMugs&quot;,&quot;target&quot;:&quot;_blank&quot;},&quot;type&quot;:&quot;Image&quot;,&quot;id&quot;:&quot;dataItem-ikn8h3s7&quot;,&quot;metaData&quot;:{&quot;isPreset&quot;:false,&quot;schemaVersion&quot;:&quot;1.0&quot;,&quot;isHidden&quot;:false},&quot;title&quot;:&quot;Facebook - Black Circle&quot;,&quot;uri&quot;:&quot;4057345bcf57474b96976284050c00df.png&quot;,&quot;width&quot;:200,&quot;height&quot;:200,&quot;alt&quot;:&quot;Facebook - Black Circle&quot;},&quot;displayMode&quot;:&quot;fill&quot;}" style="width: 30px; height: 30px; position: absolute;" data-has-bg-scroll-effect="" data-style="position:absolute" class="lb1imageItemimage" id="LnkBr0-163a3imageimage"><img id="LnkBr0-163a3imageimageimage" alt="Facebook - Black Circle" data-type="image" itemprop="image" src="https://static.wixstatic.com/media/4057345bcf57474b96976284050c00df.png/v1/fill/w_60,h_60,al_c,q_80,usm_0.66_1.00_0.01/4057345bcf57474b96976284050c00df.webp" style="width: 30px; height: 30px; object-fit: cover;"></div></a></li><li style="width:30px;height:30px;margin-bottom:0;margin-right:5px;display:inline-block" class="lb1imageItem" id="LnkBr0-163a4image"><a href="http://instagram.com/formugs" target="_blank" data-content="http://instagram.com/formugs" data-type="external" rel="nofollow" id="LnkBr0-163a4imagelink" class="lb1imageItemlink"><div data-image-info="{&quot;imageData&quot;:{&quot;link&quot;:{&quot;type&quot;:&quot;ExternalLink&quot;,&quot;id&quot;:&quot;iamg2mze_ght&quot;,&quot;metaData&quot;:{&quot;isPreset&quot;:false,&quot;schemaVersion&quot;:&quot;1.0&quot;,&quot;isHidden&quot;:false},&quot;url&quot;:&quot;http://instagram.com/formugs&quot;,&quot;target&quot;:&quot;_blank&quot;},&quot;type&quot;:&quot;Image&quot;,&quot;id&quot;:&quot;i21j0x&quot;,&quot;metaData&quot;:{&quot;isPreset&quot;:false,&quot;schemaVersion&quot;:&quot;2.0&quot;,&quot;isHidden&quot;:false},&quot;title&quot;:&quot;Instagram Basic Black &quot;,&quot;uri&quot;:&quot;d3645e6fa159b8ef24374656fc7b245a.png&quot;,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:205,&quot;height&quot;:205,&quot;alt&quot;:&quot;Instagram Basic Black &quot;},&quot;displayMode&quot;:&quot;fill&quot;}" style="width: 30px; height: 30px; position: absolute;" data-has-bg-scroll-effect="" data-style="position:absolute" class="lb1imageItemimage" id="LnkBr0-163a4imageimage"><img id="LnkBr0-163a4imageimageimage" alt="Instagram Basic Black " data-type="image" itemprop="image" src="https://static.wixstatic.com/media/d3645e6fa159b8ef24374656fc7b245a.png/v1/fill/w_60,h_60,al_c,q_80,usm_0.66_1.00_0.01/d3645e6fa159b8ef24374656fc7b245a.webp" style="width: 30px; height: 30px; object-fit: cover;"></div></a></li></ul></div><style type="text/css" data-styleid="lb1">.lb1itemsContainer {position:absolute;width:100%;height:100%;white-space:nowrap;}
+.lb1itemsContainer > li:last-child {margin:0 !important;}
+.lb1[data-state~="mobileView"] .lb1itemsContainer {position:absolute;width:100%;height:100%;white-space:normal;}
+.lb1 a {display:block;height:100%;}
+.lb1imageItemlink {cursor:pointer;}
+.lb1imageItemimageimage {position:static;box-shadow:#000 0 0 0;user-select:none;}</style><div role="application" aria-label="Application, Audio player, " style="top:;bottom:;left:;right:;width:31px;height:30px;position:" class="style-jgphd6ch" data-state="waiting" id="iar8fzs2"><button aria-label="Play, toggle" id="iar8fzs2mediaButton" class="style-jgphd6chmediaButton"><span></span></button></div><style type="text/css" data-styleid="style-jgphd6ch">.style-jgphd6ch {box-sizing:border-box;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;border:0px solid rgba(128, 128, 128, 1);cursor:pointer !important;transition:border-color 0.4s ease 0s, background-color 0.4s ease 0s;  background-color:rgba(0, 0, 0, 1);border-radius:0;  }
+.style-jgphd6ch:hover,.style-jgphd6ch[data-preview~="hover"],.style-jgphd6ch:active {background-color:rgba(128, 128, 128, 1);}
+.style-jgphd6ch:hover,.style-jgphd6ch[data-preview~="hover"] {border:solid rgba(42, 42, 42, 1) 0px;}
+.style-jgphd6ch div {position:absolute;top:0;right:0;bottom:0;left:0;}
+.style-jgphd6ch span {box-sizing:border-box;display:block;width:100%;height:20px;position:absolute;top:50%;margin-left:0;margin-top:-9px;}
+.style-jgphd6chmediaButton {width:100%;height:100%;}
+.style-jgphd6ch[data-state~="loading"] .style-jgphd6chmediaButton {display:none;}
+.style-jgphd6ch[data-state~="pausing"] .style-jgphd6chmediaButton span,.style-jgphd6ch[data-state~="waiting"] .style-jgphd6chmediaButton span {background:url(https://static.parastorage.com/services/skins/2.1229.80/images/wysiwyg/core/themes/base/play_shadow_small2.png) no-repeat 50% 50%;}
+.style-jgphd6ch[data-state~="playing"] .style-jgphd6chmediaButton span {background:url(https://static.parastorage.com/services/skins/2.1229.80/images/wysiwyg/core/themes/base/pause_shadow_small2.png) no-repeat 50% 50%;}</style><div style="width: 174px; height: 124px;" data-exact-height="124" data-content-padding-horizontal="0" data-content-padding-vertical="0" data-display-mode="fill" title="" class="style-jqyl3b8y" id="iamrl0nl"><div style="width: 174px; height: 124px;" id="iamrl0nllink" class="style-jqyl3b8ylink"><div data-image-info="{&quot;imageData&quot;:{&quot;type&quot;:&quot;Image&quot;,&quot;id&quot;:&quot;c17sm&quot;,&quot;metaData&quot;:{&quot;isPreset&quot;:false,&quot;schemaVersion&quot;:&quot;2.0&quot;,&quot;isHidden&quot;:false},&quot;title&quot;:&quot;&quot;,&quot;uri&quot;:&quot;bcff63_f6c4f5efd2d34a75b3a3fd5205454702~mv2_d_3000_3000_s_4_2.png&quot;,&quot;description&quot;:&quot;&quot;,&quot;width&quot;:3000,&quot;height&quot;:3000,&quot;alt&quot;:&quot;fflogo.png&quot;,&quot;crop&quot;:{&quot;x&quot;:0,&quot;y&quot;:431,&quot;width&quot;:3000,&quot;height&quot;:2138},&quot;name&quot;:&quot;fflogo.png&quot;},&quot;displayMode&quot;:&quot;fill&quot;}" style="width: 174px; height: 124px; position: relative; top: 0px; left: 0px; transform: translateZ(0px);" data-has-bg-scroll-effect="" data-style="" class="style-jqyl3b8yimg" id="iamrl0nlimg"><svg id="svgdarken-iamrl0nlimg" version="1.1" style="width:0;height:0;left:0;top:0;overflow:hidden;position:absolute"><defs><filter id="darken-iamrl0nlimg" color-interpolation-filters="sRGB">
+    <feComponentTransfer result="srcRGB"></feComponentTransfer>
+    <feComponentTransfer result="brightness"><feFuncR type="linear" slope="0.4"></feFuncR><feFuncG type="linear" slope="0.4"></feFuncG><feFuncB type="linear" slope="0.4"></feFuncB></feComponentTransfer>
+<feBlend mode="darken" in="brightness" in2="SourceGraphic"></feBlend>
+    <feComponentTransfer></feComponentTransfer>
+</filter></defs></svg><img id="iamrl0nlimgimage" style="filter: url(&quot;#darken-iamrl0nlimg&quot;); outline: transparent solid 1px; object-position: 50% 50%; width: 174px; height: 124px; object-fit: cover;" alt="fflogo.png" data-type="image" itemprop="image" src="https://static.wixstatic.com/media/bcff63_f6c4f5efd2d34a75b3a3fd5205454702~mv2_d_3000_3000_s_4_2.png/v1/crop/x_0,y_431,w_3000,h_2138/fill/w_348,h_248,al_c,q_80,usm_0.66_1.00_0.01/fflogo.webp"></div></div></div><style type="text/css" data-styleid="style-jqyl3b8y">.style-jqyl3b8y_zoomedin {cursor:url(https://static.parastorage.com/services/skins/2.1229.80/images/wysiwyg/core/themes/base/cursor_zoom_out.png), url(https://static.parastorage.com/services/skins/2.1229.80/images/wysiwyg/core/themes/base/cursor_zoom_out.cur), auto;overflow:hidden;display:block;}
+.style-jqyl3b8y_zoomedout {cursor:url(https://static.parastorage.com/services/skins/2.1229.80/images/wysiwyg/core/themes/base/cursor_zoom_in.png), url(https://static.parastorage.com/services/skins/2.1229.80/images/wysiwyg/core/themes/base/cursor_zoom_in.cur), auto;}
+.style-jqyl3b8ylink {display:block;overflow:hidden;}
+.style-jqyl3b8yimg {overflow:hidden;}
+.style-jqyl3b8yimgimage {position:static;box-shadow:#000 0 0 0;user-select:none;}</style><div data-packed="true" style="width: 492px; pointer-events: none;" class="txtNew" id="WRchTxt5"><h1 class="font_0" style="font-size:40px; line-height:1.4em; text-align:center;"><span style="font-size:40px;"><span style="font-family:lulo-clean-w01-one-bold,sans-serif;"><span style="text-shadow:rgba(0, 0, 0, 0.498039) -1px -1px 0px, rgba(0, 0, 0, 0.498039) -1px 1px 0px, rgba(0, 0, 0, 0.498039) 1px 1px 0px, rgba(0, 0, 0, 0.498039) 1px -1px 0px;"><span style="color:#FFFFFF;"><a href="https://formugs.wixsite.com/frankiefrancesco/about" target="_self">Frankie</a></span></span></span></span></h1>
+
+<h1 class="font_0" style="font-size:40px; line-height:1.4em; text-align:center;"><span style="font-size:40px;"><span style="font-family:lulo-clean-w01-one-bold,sans-serif;"><span style="text-shadow:rgba(0, 0, 0, 0.498039) -1px -1px 0px, rgba(0, 0, 0, 0.498039) -1px 1px 0px, rgba(0, 0, 0, 0.498039) 1px 1px 0px, rgba(0, 0, 0, 0.498039) 1px -1px 0px;"><span style="color:#FFFFFF;"><a href="https://formugs.wixsite.com/frankiefrancesco/about" target="_self">Francesco</a></span></span></span></span></h1></div><style type="text/css" data-styleid="txtNew">.txtNew {word-wrap:break-word;text-align:start;}
+.txtNew_override-left * {text-align:left !important;}
+.txtNew_override-right * {text-align:right !important;}
+.txtNew_override-center * {text-align:center !important;}
+.txtNew_override-justify * {text-align:justify !important;}
+.txtNew > * {pointer-events:auto;}
+.txtNew li {font-style:inherit;font-weight:inherit;line-height:inherit;letter-spacing:normal;}
+.txtNew ol,.txtNew ul {padding-left:1.3em;padding-right:0;margin-left:0.5em;margin-right:0;line-height:normal;letter-spacing:normal;}
+.txtNew ul {list-style-type:disc;}
+.txtNew ol {list-style-type:decimal;}
+.txtNew ul ul,.txtNew ol ul {list-style-type:circle;}
+.txtNew ul ul ul,.txtNew ol ul ul {list-style-type:square;}
+.txtNew ul ol ul,.txtNew ol ol ul {list-style-type:square;}
+.txtNew ul[dir="rtl"],.txtNew ol[dir="rtl"] {padding-left:0;padding-right:1.3em;margin-left:0;margin-right:0.5em;}
+.txtNew ul[dir="rtl"] ul,.txtNew ul[dir="rtl"] ol,.txtNew ol[dir="rtl"] ul,.txtNew ol[dir="rtl"] ol {padding-left:0;padding-right:1.3em;margin-left:0;margin-right:0.5em;}
+.txtNew p {margin:0;line-height:normal;letter-spacing:normal;}
+.txtNew h1 {margin:0;line-height:normal;letter-spacing:normal;}
+.txtNew h2 {margin:0;line-height:normal;letter-spacing:normal;}
+.txtNew h3 {margin:0;line-height:normal;letter-spacing:normal;}
+.txtNew h4 {margin:0;line-height:normal;letter-spacing:normal;}
+.txtNew h5 {margin:0;line-height:normal;letter-spacing:normal;}
+.txtNew h6 {margin:0;line-height:normal;letter-spacing:normal;}
+.txtNew a {color:inherit;}</style><div data-packed="true" style="width: 450px; pointer-events: none;" class="txtNew" id="WRchTxt7"><h4 class="font_4" style="font-size:29px; line-height:1.4em; text-align:center;"><span style="font-size:29px;"><span style="color:#000000;"><span style="font-family:lulo-clean-w01-one-bold,sans-serif;">Artist</span></span></span></h4></div><style type="text/css" data-styleid="txtNew">.txtNew {word-wrap:break-word;text-align:start;}
+.txtNew_override-left * {text-align:left !important;}
+.txtNew_override-right * {text-align:right !important;}
+.txtNew_override-center * {text-align:center !important;}
+.txtNew_override-justify * {text-align:justify !important;}
+.txtNew > * {pointer-events:auto;}
+.txtNew li {font-style:inherit;font-weight:inherit;line-height:inherit;letter-spacing:normal;}
+.txtNew ol,.txtNew ul {padding-left:1.3em;padding-right:0;margin-left:0.5em;margin-right:0;line-height:normal;letter-spacing:normal;}
+.txtNew ul {list-style-type:disc;}
+.txtNew ol {list-style-type:decimal;}
+.txtNew ul ul,.txtNew ol ul {list-style-type:circle;}
+.txtNew ul ul ul,.txtNew ol ul ul {list-style-type:square;}
+.txtNew ul ol ul,.txtNew ol ol ul {list-style-type:square;}
+.txtNew ul[dir="rtl"],.txtNew ol[dir="rtl"] {padding-left:0;padding-right:1.3em;margin-left:0;margin-right:0.5em;}
+.txtNew ul[dir="rtl"] ul,.txtNew ul[dir="rtl"] ol,.txtNew ol[dir="rtl"] ul,.txtNew ol[dir="rtl"] ol {padding-left:0;padding-right:1.3em;margin-left:0;margin-right:0.5em;}
+.txtNew p {margin:0;line-height:normal;letter-spacing:normal;}
+.txtNew h1 {margin:0;line-height:normal;letter-spacing:normal;}
+.txtNew h2 {margin:0;line-height:normal;letter-spacing:normal;}
+.txtNew h3 {margin:0;line-height:normal;letter-spacing:normal;}
+.txtNew h4 {margin:0;line-height:normal;letter-spacing:normal;}
+.txtNew h5 {margin:0;line-height:normal;letter-spacing:normal;}
+.txtNew h6 {margin:0;line-height:normal;letter-spacing:normal;}
+.txtNew a {color:inherit;}</style></div></div></div></div><style type="text/css" data-styleid="style-jp4s7o1h">.style-jp4s7o1hbg {border:15px solid rgba(0, 0, 0, 1);background-color:rgba(255, 0, 0, 1);border-radius:0;  }
+.style-jp4s7o1hinlineContent,.style-jp4s7o1hbg {position:absolute;top:0;right:0;bottom:0;left:0;}</style></div></div>
